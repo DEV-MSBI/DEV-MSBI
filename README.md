@@ -1,4 +1,4 @@
-![image](https://github.com/DEV-MSBI/DEV-MSBI/assets/143413157/a54c20a5-ac10-4014-a37e-7e799f8415e4)
+![image](https://github.com/user-attachments/assets/89a9396c-139b-47f2-9167-9de0d59066ac)
 
 
 <h3 align="left">Languages and Tools:</h3>
